@@ -1,0 +1,44 @@
+.x{
+    min-height: 100vh;
+    
+}
+.abc{
+    margin-left: auto;
+    margin-right: auto;
+}
+.a{
+    display: flex;
+    
+        background-color: #ff6600;
+        padding: 1rem;
+        position: sticky;
+        top: 0;
+        z-index: 1000;
+      }
+      
+.b{
+    align-items: center;
+    list-style: none;
+        display: flex;
+        justify-content: center;
+        margin: 0;
+        padding: 0;
+        margin: 0 15px;
+}
+.c{
+
+    justify-content: space-between;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.p{
+   align-items: flex-start;
+    font: bold;
+   
+}
+.pq{
+    text-align:justify;
+    
+}
